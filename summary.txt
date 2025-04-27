@@ -1,0 +1,10 @@
+In this simulation, we modeled a grocery store with randomly arriving customers and several checkout checkers.
+ Customers had a random number of items and took a proportionate amount of time to shop. The checkout time was based on how many items the customer had.
+
+From the simulation, I learned that increasing the number of checkers significantly reduces the average wait time for customers.
+ However, having too many checkers increases the overall idle time, meaning some checkers spend a lot of time doing nothing.
+
+By changing the number of checkers and adjusting the customer arrival rates, I observed how staffing decisions impact customer service and employee productivity.
+ I also added extra analysis like average number of items purchased and maximum wait time to get a better understanding of customer experience.
+
+This project helped me learn how to set up a basic event-driven simulation using SimPy.
